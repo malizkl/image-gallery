@@ -32,7 +32,10 @@ export default function Gallery({ images }: { images: Image[] }) {
   return (
 
     <div className="mx-auto max-w-2xl py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-          <p className="text-bold text-2xl mb-8 text-center">رحلة تركيا 1444🇸🇦🇹🇷</p>
+          <p className="text-bold text-2xl mb-4 text-center">Av. Mustafa Zafer</p>
+          <p className="text-gray-500 text-xl mb-8 text-center">İstanbul Barosu / Fenerbahçe S.K Kongre Üyesi / E.İcra ve İflas Müdürü
+</p>
+
 
       <div className="grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
         
